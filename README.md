@@ -132,4 +132,4 @@ DELETE /users/1
 ## 👤 Author
 
 - GitHub: https://github.com/fabiociamberlano/fabiociamberlano
-- LinkedIn: https://www.linkedin.com/in/
+- LinkedIn: https://www.linkedin.com/in/fabiociamberlano/
